@@ -6,7 +6,7 @@
 ## Table of Contents
 
 - [Project Description](#project-description-)
-- [Features](features-)
+- [Features](#features-)
 - [Tech Stack](#tech-stack-%EF%B8%8F)
 - [Prerequisites](#prerequisites-)
 - [Installation and Usage](#installation-and-usage-)
