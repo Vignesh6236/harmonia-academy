@@ -5,14 +5,14 @@
 
 ## Table of Contents
 
-- [Project Description](#project-description)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Prerequisites](#prerequisites)
-- [Installation and Usage](#installation-and-usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [Acknowledgments](#acknowledgments)
+- [Project Description](#project-description-)
+- [Features](features-)
+- [Tech Stack](#tech-stack-%EF%B8%8F)
+- [Prerequisites](#prerequisites-)
+- [Installation and Usage](#installation-and-usage-)
+- [Screenshots](#screenshots-)
+- [Contributing](#contributing-)
+- [Acknowledgments](#acknowledgments-)
 
 ## Project Description 📖
 
@@ -64,9 +64,11 @@ Follow these steps to run the Harmonia Academy project locally:
 
 4. Open your browser and navigate to `http://localhost:3000` to view the landing page.
 
+
 ## Screenshots 📷
 
 ### Desktop View
+
 ![Screenshot (45)](https://github.com/user-attachments/assets/758b2eb0-1ff4-4237-a8cc-943fd4ebee0a)
 
 
