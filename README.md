@@ -11,6 +11,7 @@
 - [Prerequisites](#prerequisites-)
 - [Installation and Usage](#installation-and-usage-)
 - [Screenshots](#screenshots-)
+- [Deployment](#deployment-)
 - [Contributing](#contributing-)
 - [Acknowledgments](#acknowledgments-)
 
@@ -54,7 +55,7 @@ Follow these steps to run the Harmonia Academy project locally:
 2. Navigate to the project directory and install dependencies:
    ```bash
    cd harmonia-academy
-   npm install
+   npm install -force
    ```
 
 3. Start the development server:
@@ -76,6 +77,11 @@ Follow these steps to run the Harmonia Academy project locally:
 
 ![Screenshot 2024-12-04 133936](https://github.com/user-attachments/assets/299d9658-d0c6-42fd-adb9-5434b469421d)
 
+## Deployment 🚀
+
+The Harmonia Academy landing page is deployed using **[Vercel](https://vercel.com/)** . You can access the live site here:  
+**[https://harmonia-academy.vercel.app/](https://harmonia-academy.vercel.app/)**
+
 ## Contributing 🤝
 
 Contributions are welcome! If you have ideas or suggestions, feel free to fork the repository, make your changes, and submit a pull request.
@@ -87,3 +93,4 @@ Contributions are welcome! If you have ideas or suggestions, feel free to fork t
 - **[TypeScript](https://www.typescriptlang.org/):** For enhancing code quality and maintainability.
 - **[Tailwind CSS](https://tailwindcss.com/):** For fast and efficient styling.
 - **[Aceternity UI](https://ui.aceternity.com/):** For the beautiful and reusable UI components.
+- **[Vercel](https://vercel.com/):** For providing seamless deployment and hosting solutions.
